@@ -93,7 +93,7 @@ device = {
 
 
 def u_a():
-    g = "[FBAN/FB4A;FBAV/495.0.0.1.201;FBBV/458028556;FBLC/el_GR;FBRV/0;FBCR/Wind;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/Huawei P50 Pocket;FBSV/12;FBOP/1;FBCA/arm64-v8a;]"
+    g = "[FBAN/FB4A;FBAV/495.0.0.20.201;FBBV/458031215;FBLC/el_GR;FBRV/0;FBCR/Wind;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/Huawei P50 Pocket;FBSV/12;FBOP/1;FBCA/arm64-v8a;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
     
 
@@ -106,7 +106,7 @@ logo=(f"""\
 ╚╝ ╚╝╚╝╚═╝╚═══╝╚╝ ╚╝╚╝╚╝╚╝
 \033[1;37m----------------------------------------------
 \033[1;96m Owner  : ARSAM
-\033[1;92m Name   : 26
+\033[1;92m Name   : 27
 \033[1;93m Version:\033[1;93m 0."x"10.0 \033[1;93m
 \033[1;97m Status : Perxnl-√√ 
 \033[1;37m----------------------------------------------""")
