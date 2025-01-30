@@ -93,7 +93,7 @@ device = {
 
 
 def u_a():
-    g = "[FBAN/FB4A;FBAV/168.0.0.40.90;FBBV/103682747;FBLC/en_US;FBRV/0;FBCR/Jio;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-A315F;FBSV/10;FBOP/1;FBCA/arm64-v8a;]"
+    g = "[FBAN/FB4A;FBAV/166.0.0.63.95;FBBV/101240129;FBLC/en_US;FBRV/1;FBCR/Unknown;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/Xiaomi 12S Pro;FBSV/12;FBOP/1;FBCA/arm64-v8a;]"
     return "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,77)) +";FBBV/"+str(random.randint(1111111,7777777))+";"+g
     
 
@@ -106,7 +106,8 @@ logo=(f"""\
 ╚╝ ╚╝╚╝╚═╝╚═══╝╚╝ ╚╝╚╝╚╝╚╝
 \033[1;37m----------------------------------------------
 \033[1;96m Owner  : ARSAM
-\033[1;92m Name   : 0.01
+\033[1;92m Name   :  CLONING RELATED BAAT NAHI KIA KERONGA ABB SAY
+ FREE HAII TO 2 FILE BANADY
 \033[1;93m Version:\033[1;93m 0."x"10.0 \033[1;93m
 \033[1;97m Status : Perxnl-√√ 
 \033[1;37m----------------------------------------------""")
