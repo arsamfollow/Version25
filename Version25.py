@@ -106,8 +106,7 @@ logo=(f"""\
 ╚╝ ╚╝╚╝╚═╝╚═══╝╚╝ ╚╝╚╝╚╝╚╝
 \033[1;37m----------------------------------------------
 \033[1;96m Owner  : ARSAM
-\033[1;92m Name   :  CLONING RELATED BAAT NAHI KIA KERONGA ABB SAY
- FREE HAII TO 2 FILE BANADY
+\033[1;92m Name   : XX11
 \033[1;93m Version:\033[1;93m 0."x"10.0 \033[1;93m
 \033[1;97m Status : Perxnl-√√ 
 \033[1;37m----------------------------------------------""")
